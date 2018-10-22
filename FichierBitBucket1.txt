@@ -1,5 +1,7 @@
 Fichier Bit Bucket
 
-Modification numéro #1
+Modification numÃ©ro #1
 
-Modificatuin numéro #2
+Modificatuin numÃ©ro #2
+
+Modification Ã  partir de Git Hub
